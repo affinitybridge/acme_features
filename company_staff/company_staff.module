@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Company Staff feature.
+ */
+
+include_once 'company_staff.features.inc';
