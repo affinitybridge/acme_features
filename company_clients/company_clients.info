@@ -1,4 +1,4 @@
-name = Company clients
+name = Company Clients
 description = Controls the settings of content type "Client"
 core = 7.x
 package = Acme Features
