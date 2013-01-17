@@ -19,6 +19,7 @@ features[ctools][] = strongarm:strongarm:1
 features[ctools][] = views:views_default:3.0
 features[features_api][] = api:1
 features[field][] = node-client-body
+features[field][] = node-client-field_client_logo
 features[field][] = node-client-field_client_sector
 features[field][] = node-client-field_client_website
 features[node][] = client

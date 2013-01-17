@@ -20,6 +20,7 @@ features[field][] = node-staff_profile-body
 features[field][] = node-staff_profile-field_staff_profile_email
 features[field][] = node-staff_profile-field_staff_profile_extension
 features[field][] = node-staff_profile-field_staff_profile_office_phone
+features[field][] = node-staff_profile-field_staff_profile_picture
 features[field][] = node-staff_profile-field_staff_profile_position
 features[node][] = staff_profile
 features[variable][] = field_bundle_settings_node__staff_profile
